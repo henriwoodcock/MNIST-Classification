@@ -8,6 +8,8 @@ This is my attempt at the MNIST classification problem. Often called the "hello 
 ---------------
 
 ## Contents:
+-----------------
+
 
 - `Multilayer Perceptron in keras <MNIST_classification/Keras_MLP.ipynb>`_.
 
