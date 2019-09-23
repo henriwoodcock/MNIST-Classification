@@ -11,5 +11,9 @@ Contents:
 -----------------
 
 
-- `Multilayer Perceptron in keras <MNIST_classification/Keras_MLP.ipynb>`_.
+- `Multilayer Perceptron in keras <MNIST_classification/Keras_MLP.ipynb>`_
+- `Basic CNN in keras <MNIST_classification/Keras-CNN.ipynb>`_
+- `Multilayer Perceptron in tf <MNIST_classification/Tensforflow - MLP.ipynb>`_
+
+
 
