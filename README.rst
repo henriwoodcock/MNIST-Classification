@@ -1,7 +1,9 @@
-Sample Module Repository
+MINST Classification
 ========================
 
-This is my attempt at the MNIST classification problem. Often called the "hello world" of machine learning, I thought it was about time to give this a go. This reposoitory will be constantly updated as I attempt the problem with different models and different methods.
+This is my attempt at the MNIST classification problem. Often called the "hello world" of machine learning, I thought it was about time to give this a go. This reposoitory will be constantly updated as I attempt the problem with different models and different methods. 
+
+Hopefully I will add some creative techniques and analysis when/if I get round to it.
 
 `MNIST dataset <https://www.nist.gov/sites/default/files/documents/srd/nistsd19.pdf>`_.
 
